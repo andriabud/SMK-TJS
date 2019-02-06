@@ -17,7 +17,10 @@ Langkah pertama yang harus disiapkan yaitu :
 - [Download Composser](https://getcomposer.org/Composer-Setup.exe).
 - [Template AdminLTE 2.3.11.](https://codeload.github.com/almasaeed2010/AdminLTE/zip/v2.3.11).
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
+Langkah kedua setelah sudah melakukan isntalasi, kemudian membuat folder baru didalam htdocs dengan nama "belajarLaravel" (C:\xampp\htdocs). Lalu klik kanan disembarang tempat didalam folder "belajarLaravel".
+pilih menu gitbash here, kemudian ketik didalam cpmmand : composer create-project --prefer-dist laravel/laravel belajarLaravel"5.7"
+
+
 
 ## Learning Laravel
 
